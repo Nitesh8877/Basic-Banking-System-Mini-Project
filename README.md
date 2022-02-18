@@ -1,2 +1,1 @@
-# Basic-Banking-System-Mini-Project
-This is my 4th live project.........
+# Basic-Banking-System
